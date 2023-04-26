@@ -1,2 +1,2 @@
-# VYZ-Helper
+# HI
 Project Yandex Liceum V3
